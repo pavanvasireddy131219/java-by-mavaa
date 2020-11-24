@@ -1,5 +1,6 @@
+package com.org.onlinetraining.loops;
 
-public class age {
+public class AgeCheck {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

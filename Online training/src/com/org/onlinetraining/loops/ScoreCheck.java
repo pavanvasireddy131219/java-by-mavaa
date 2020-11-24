@@ -1,5 +1,6 @@
+package com.org.onlinetraining.loops;
 
-public class score {
+public class ScoreCheck {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
